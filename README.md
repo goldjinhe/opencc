@@ -1,7 +1,6 @@
 # Opencc
 
 
-The source map file in the published npm package contained a reference to the full, unobfuscated TypeScript source, which was downloadable as a zip archive from Anthropic's R2 storage bucket.
 
 ---
 
