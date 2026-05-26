@@ -1,5 +1,4 @@
-# Opencc
-
+# occ
 
 
 ---
@@ -234,4 +233,3 @@ Reusable workflows defined in `skills/` and executed through `SkillTool`. Users 
 Built-in and third-party plugins are loaded through the `plugins/` subsystem.
 
 ---
-
